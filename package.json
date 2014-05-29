@@ -1,0 +1,31 @@
+{
+  "name": "AvocetLDAPUserImport",
+  "description": "Avocet LDAP User Import",
+  "version": "0.0.1",
+  "homepage": "http://www.openaccess.cam.ac.uk",
+  "author": {
+    "name": "Mathieu Decoene",
+    "email": "md623@cam.ac.uk"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Coenego/avocet-import-ldap-users.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Coenego/avocet-import-ldap-users/issues"
+  },
+  "licenses": [
+    {
+      "type": "ECLv2",
+      "url": "http://opensource.org/licenses/ecl2.php"
+    }
+  ],
+  "dependencies": {
+    "bunyan": "latest",
+    "optimist": "latest",
+    "underscore": "latest"
+  },
+  "engines": {
+    "node": ">=0.10"
+  }
+}

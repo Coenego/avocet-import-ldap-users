@@ -1,0 +1,14 @@
+dn: uid=ab123,ou=people,o=University of Cambridge,dc=cam,dc=ac,dc=uk
+cn: A. Bollocks
+mail: ab123@cam.ac.uk
+uid: ab123
+
+dn: uid=ab999,ou=people,o=University of Cambridge,dc=cam,dc=ac,dc=uk
+cn: Dr A. Burger
+mail: A.Burger@cam.ac.uk
+uid: ab999
+
+dn: uid=ac123,ou=people,o=University of Cambridge,dc=cam,dc=ac,dc=uk
+cn: A. Cornuto
+mail: ac123@cam.ac.uk
+uid: ac123
